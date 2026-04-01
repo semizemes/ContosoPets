@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# learning\\Guided-project-Work-with-variable-data-CSharp-main\\Starter\\Starter.csproj": {}
+    "D:\\C# learning\\Challenge-project-work-variable-data-CSharp-main\\Starter\\Starter.csproj": {}
   },
   "projects": {
-    "D:\\C# learning\\Guided-project-Work-with-variable-data-CSharp-main\\Starter\\Starter.csproj": {
+    "D:\\C# learning\\Challenge-project-work-variable-data-CSharp-main\\Starter\\Starter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# learning\\Guided-project-Work-with-variable-data-CSharp-main\\Starter\\Starter.csproj",
+        "projectUniqueName": "D:\\C# learning\\Challenge-project-work-variable-data-CSharp-main\\Starter\\Starter.csproj",
         "projectName": "Starter",
-        "projectPath": "D:\\C# learning\\Guided-project-Work-with-variable-data-CSharp-main\\Starter\\Starter.csproj",
+        "projectPath": "D:\\C# learning\\Challenge-project-work-variable-data-CSharp-main\\Starter\\Starter.csproj",
         "packagesPath": "C:\\Users\\Soatm\\.nuget\\packages\\",
-        "outputPath": "D:\\C# learning\\Guided-project-Work-with-variable-data-CSharp-main\\Starter\\obj\\",
+        "outputPath": "D:\\C# learning\\Challenge-project-work-variable-data-CSharp-main\\Starter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
